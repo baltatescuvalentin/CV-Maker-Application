@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/gh-pages/static/css/main.d801b871.css",
-    "main.js": "/gh-pages/static/js/main.5618929a.js",
-    "static/js/703.6314a56c.chunk.js": "/gh-pages/static/js/703.6314a56c.chunk.js",
-    "static/js/635.45c4a716.chunk.js": "/gh-pages/static/js/635.45c4a716.chunk.js",
-    "static/js/787.777453b1.chunk.js": "/gh-pages/static/js/787.777453b1.chunk.js",
-    "index.html": "/gh-pages/index.html",
-    "main.d801b871.css.map": "/gh-pages/static/css/main.d801b871.css.map",
-    "main.5618929a.js.map": "/gh-pages/static/js/main.5618929a.js.map",
-    "703.6314a56c.chunk.js.map": "/gh-pages/static/js/703.6314a56c.chunk.js.map",
-    "635.45c4a716.chunk.js.map": "/gh-pages/static/js/635.45c4a716.chunk.js.map",
-    "787.777453b1.chunk.js.map": "/gh-pages/static/js/787.777453b1.chunk.js.map"
+    "main.css": "/CV-Maker-Application/static/css/main.d801b871.css",
+    "main.js": "/CV-Maker-Application/static/js/main.baad5dfd.js",
+    "static/js/703.6314a56c.chunk.js": "/CV-Maker-Application/static/js/703.6314a56c.chunk.js",
+    "static/js/635.45c4a716.chunk.js": "/CV-Maker-Application/static/js/635.45c4a716.chunk.js",
+    "static/js/787.777453b1.chunk.js": "/CV-Maker-Application/static/js/787.777453b1.chunk.js",
+    "index.html": "/CV-Maker-Application/index.html",
+    "main.d801b871.css.map": "/CV-Maker-Application/static/css/main.d801b871.css.map",
+    "main.baad5dfd.js.map": "/CV-Maker-Application/static/js/main.baad5dfd.js.map",
+    "703.6314a56c.chunk.js.map": "/CV-Maker-Application/static/js/703.6314a56c.chunk.js.map",
+    "635.45c4a716.chunk.js.map": "/CV-Maker-Application/static/js/635.45c4a716.chunk.js.map",
+    "787.777453b1.chunk.js.map": "/CV-Maker-Application/static/js/787.777453b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d801b871.css",
-    "static/js/main.5618929a.js"
+    "static/js/main.baad5dfd.js"
   ]
 }
